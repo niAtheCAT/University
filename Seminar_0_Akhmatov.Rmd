@@ -1,0 +1,56 @@
+Plain text  
+
+End a line with two spaces to start a new paragraph.
+
+*italics* and _italics_
+
+**bold** and __bold__
+
+superscript^2^
+
+--strikethrough--
+
+[link](www.rstudio.com)
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Header 5
+
+###### Header 6
+
+endash: --
+
+emdash: ---
+
+ellipsis: ...
+
+inline equation: $A = \pi*r^{2}$
+
+image: ![](C:\Users\nikah\Pictures\wallhaven-2k97ox.jpg)
+
+horizontal rule (or slide break):
+
+***
+
+> block
+
+* unordered list
+* i 2
+  + s 1
+  + s 2
+  
+1. ordered list
+2. i 2
+  + s 1
+  + s 2
+
+First hello | Second Hello
+------------|-------------
+Table hello | Cell hello2
+cell hello3 | cell hello4
